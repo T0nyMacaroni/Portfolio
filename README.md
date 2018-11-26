@@ -1,4 +1,4 @@
-# [Anthony Stulens Portfolio/Website](https://anthonystulens.github.io/Portfolio/)
+# [Anthony Stulens - Portfolio/Website](https://anthonystulens.github.io/Portfolio/)
 
 This is a project for the "I-Talent" subject @[PXL](https://www.pxl.be/)
 
