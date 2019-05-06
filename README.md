@@ -1,7 +1,9 @@
 # [Anthony Stulens - PXL iTalent Portfolio](https://anthonystulens.github.io/Portfolio/)
 
-This is my portfolio for the "I-Talent" subject @[PXL](https://www.pxl.be/)
+This is my portfolio for the "iTalent" subject @[PXL](https://www.pxl.be/)
 
+##About
+The template is available at [startbootstrap-creative](https://github.com/BlackrockDigital/startbootstrap-creative)
 
 
 ## Copyright and License
