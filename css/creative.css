@@ -344,3 +344,7 @@ th img {
   max-width: 10em;
   max-height: 10em;
 }
+
+.ashizzle:hover{
+    color: #fff;
+}
