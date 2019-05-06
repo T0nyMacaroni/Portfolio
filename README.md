@@ -3,7 +3,7 @@
 This is my portfolio for the "iTalent" subject @[PXL](https://www.pxl.be/)
 
 
-##About
+## About
 The template is available at [startbootstrap-creative](https://github.com/BlackrockDigital/startbootstrap-creative)
 
 
