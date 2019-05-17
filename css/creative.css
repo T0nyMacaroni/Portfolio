@@ -291,6 +291,8 @@ header.masthead p {
   color: #0073b2 !important;
 }
 
+
+
 .btn {
   font-weight: 700;
   text-transform: uppercase;
@@ -345,6 +347,10 @@ th img {
   max-height: 10em;
 }
 
-.ashizzle:hover{
+.ashizzle:hover {
     color: #fff;
+}
+
+header.topvakantie {
+  background-image: url("../img/portfolio/thumbnails/klasfoto.jpg");
 }
