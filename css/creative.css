@@ -358,3 +358,7 @@ header.topvakantie {
 header.berlijn{
   background-image: url("../img/portfolio/thumbnails/Berlijn.jpg");
 }
+
+header.csc{
+  background-image: url("../img/portfolio/fullsize/CSC/DSC_0993.JPG");
+}
